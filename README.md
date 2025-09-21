@@ -43,6 +43,7 @@ A collection of LeetCode questions solved by myself karthik - Created using [Lee
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0232-implement-queue-using-stacks) |
 ## Design
@@ -55,4 +56,8 @@ A collection of LeetCode questions solved by myself karthik - Created using [Lee
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0232-implement-queue-using-stacks) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
