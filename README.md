@@ -22,6 +22,7 @@ A collection of LeetCode questions solved by myself karthik - Created using [Lee
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0035-search-insert-position) |
 ## Hash Table
 |  |
 | ------- |
@@ -60,4 +61,8 @@ A collection of LeetCode questions solved by myself karthik - Created using [Lee
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0020-valid-parentheses) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
