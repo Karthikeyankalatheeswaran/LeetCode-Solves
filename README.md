@@ -40,4 +40,16 @@ A collection of LeetCode questions solved by myself karthik - Created using [Lee
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0160-intersection-of-two-linked-lists) |
+## Stack
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0225-implement-stack-using-queues) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
