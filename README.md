@@ -37,6 +37,7 @@ A collection of LeetCode questions solved by myself karthik - Created using [Lee
 | ------- |
 | [0002-add-two-numbers](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
@@ -79,4 +80,12 @@ A collection of LeetCode questions solved by myself karthik - Created using [Lee
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0268-missing-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
