@@ -23,6 +23,7 @@ A collection of LeetCode questions solved by myself karthik - Created using [Lee
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0035-search-insert-position) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0268-missing-number](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0268-missing-number) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions solved by myself karthik - Created using [Lee
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0020-valid-parentheses) |
 | [1894-merge-strings-alternately](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/1894-merge-strings-alternately) |
 ## Binary Search
@@ -93,4 +95,8 @@ A collection of LeetCode questions solved by myself karthik - Created using [Lee
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0070-climbing-stairs) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
