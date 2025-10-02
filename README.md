@@ -35,6 +35,7 @@ A collection of LeetCode questions solved by myself karthik - Created using [Lee
 | [0141-linked-list-cycle](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0160-intersection-of-two-linked-lists) |
 | [0268-missing-number](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0268-missing-number) |
+| [0782-jewels-and-stones](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0782-jewels-and-stones) |
 ## Math
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions solved by myself karthik - Created using [Lee
 | [0014-longest-common-prefix](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0344-reverse-string) |
+| [0782-jewels-and-stones](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0782-jewels-and-stones) |
 | [1894-merge-strings-alternately](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/1894-merge-strings-alternately) |
 ## Binary Search
 |  |
