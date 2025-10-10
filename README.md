@@ -28,6 +28,7 @@ A collection of LeetCode questions solved by myself karthik - Created using [Lee
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0128-longest-consecutive-sequence) |
 | [0268-missing-number](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0283-move-zeroes) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [2350-find-closest-number-to-zero](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/2350-find-closest-number-to-zero) |
 ## Hash Table
@@ -54,6 +55,7 @@ A collection of LeetCode questions solved by myself karthik - Created using [Lee
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0160-intersection-of-two-linked-lists) |
+| [0283-move-zeroes](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0344-reverse-string) |
 | [1894-merge-strings-alternately](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/1894-merge-strings-alternately) |
 ## Stack
