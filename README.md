@@ -26,12 +26,14 @@ A collection of LeetCode questions solved by myself karthik - Created using [Lee
 | [0014-longest-common-prefix](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0035-search-insert-position) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0128-longest-consecutive-sequence) |
 | [0268-missing-number](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0268-missing-number) |
 | [2350-find-closest-number-to-zero](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/2350-find-closest-number-to-zero) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0160-intersection-of-two-linked-lists) |
 | [0268-missing-number](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0268-missing-number) |
@@ -103,4 +105,8 @@ A collection of LeetCode questions solved by myself karthik - Created using [Lee
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0014-longest-common-prefix) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
