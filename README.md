@@ -128,4 +128,8 @@ A collection of LeetCode questions solved by myself karthik - Created using [Lee
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0605-can-place-flowers) |
+## Database
+|  |
+| ------- |
+| [1153-product-sales-analysis-i](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/1153-product-sales-analysis-i) |
 <!---LeetCode Topics End-->
