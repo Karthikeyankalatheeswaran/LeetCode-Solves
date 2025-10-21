@@ -87,6 +87,7 @@ A collection of LeetCode questions solved by myself karthik - Created using [Lee
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0020-valid-parentheses) |
+| [0058-length-of-last-word](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0345-reverse-vowels-of-a-string) |
