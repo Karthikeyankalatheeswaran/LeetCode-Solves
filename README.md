@@ -32,6 +32,7 @@ A collection of LeetCode questions solved by myself karthik - Created using [Lee
 | [0268-missing-number](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0283-move-zeroes) |
 | [0605-can-place-flowers](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0605-can-place-flowers) |
+| [1319-unique-number-of-occurrences](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [2350-find-closest-number-to-zero](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/2350-find-closest-number-to-zero) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions solved by myself karthik - Created using [Lee
 | [0160-intersection-of-two-linked-lists](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0160-intersection-of-two-linked-lists) |
 | [0268-missing-number](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0268-missing-number) |
 | [0782-jewels-and-stones](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0782-jewels-and-stones) |
+| [1319-unique-number-of-occurrences](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/1392-find-the-difference-of-two-arrays) |
 ## Math
 |  |
