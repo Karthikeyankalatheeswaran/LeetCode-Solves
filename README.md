@@ -29,6 +29,7 @@ A collection of LeetCode questions solved by myself karthik - Created using [Lee
 | [0035-search-insert-position](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0035-search-insert-position) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0283-move-zeroes) |
 | [0605-can-place-flowers](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0605-can-place-flowers) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions solved by myself karthik - Created using [Lee
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0268-missing-number) |
 ## Sorting
 |  |
