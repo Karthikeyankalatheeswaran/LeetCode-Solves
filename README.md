@@ -41,6 +41,7 @@ A collection of LeetCode questions solved by myself karthik - Created using [Lee
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0160-intersection-of-two-linked-lists) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions solved by myself karthik - Created using [Lee
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0058-length-of-last-word) |
@@ -143,4 +145,8 @@ A collection of LeetCode questions solved by myself karthik - Created using [Lee
 |  |
 | ------- |
 | [2470-removing-stars-from-a-string](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/2470-removing-stars-from-a-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
