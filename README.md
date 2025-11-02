@@ -43,6 +43,7 @@ A collection of LeetCode questions solved by myself karthik - Created using [Lee
 | ------- |
 | [0001-two-sum](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0160-intersection-of-two-linked-lists) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions solved by myself karthik - Created using [Lee
 | ------- |
 | [0002-add-two-numbers](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0268-missing-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions solved by myself karthik - Created using [Lee
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0058-length-of-last-word) |
