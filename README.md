@@ -28,6 +28,7 @@ A collection of LeetCode questions solved by myself karthik - Created using [Lee
 | [0001-two-sum](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0136-single-number) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions solved by myself karthik - Created using [Lee
 | [0002-add-two-numbers](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0268-missing-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/1146-greatest-common-divisor-of-strings) |
