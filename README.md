@@ -32,6 +32,7 @@ A collection of LeetCode questions solved by myself karthik - Created using [Lee
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0136-single-number) |
+| [0217-contains-duplicate](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0283-move-zeroes) |
 | [0605-can-place-flowers](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0605-can-place-flowers) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions solved by myself karthik - Created using [Lee
 | [0128-longest-consecutive-sequence](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0160-intersection-of-two-linked-lists) |
+| [0217-contains-duplicate](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0268-missing-number) |
 | [0782-jewels-and-stones](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0782-jewels-and-stones) |
 | [1319-unique-number-of-occurrences](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/1319-unique-number-of-occurrences) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions solved by myself karthik - Created using [Lee
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
