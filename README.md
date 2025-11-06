@@ -50,6 +50,7 @@ A collection of LeetCode questions solved by myself karthik - Created using [Lee
 | [0141-linked-list-cycle](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0268-missing-number) |
 | [0782-jewels-and-stones](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0782-jewels-and-stones) |
 | [1319-unique-number-of-occurrences](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/1319-unique-number-of-occurrences) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions solved by myself karthik - Created using [Lee
 | [0020-valid-parentheses](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0392-is-subsequence) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions solved by myself karthik - Created using [Lee
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
