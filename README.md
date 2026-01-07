@@ -1,5 +1,5 @@
 # LeetCode-Solves
-A collection of LeetCode questions solved by myself karthik - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+A collection of LeetCode questions solved - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
