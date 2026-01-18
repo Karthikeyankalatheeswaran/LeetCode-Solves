@@ -30,6 +30,7 @@ A collection of LeetCode questions solved - Created using [LeetHub v2](https://g
 | [0014-longest-common-prefix](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0035-search-insert-position) |
 | [0055-jump-game](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0128-longest-consecutive-sequence) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions solved - Created using [LeetHub v2](https://g
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0268-missing-number) |
