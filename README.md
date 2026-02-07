@@ -34,6 +34,7 @@ A collection of LeetCode questions solved - Created using [LeetHub v2](https://g
 | [0055-jump-game](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0136-single-number) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions solved - Created using [LeetHub v2](https://g
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0088-merge-sorted-array](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0143-reorder-list) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions solved - Created using [LeetHub v2](https://g
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0268-missing-number) |
