@@ -74,6 +74,7 @@ A collection of LeetCode questions solved - Created using [LeetHub v2](https://g
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions solved - Created using [LeetHub v2](https://g
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0020-valid-parentheses) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions solved - Created using [LeetHub v2](https://g
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0005-longest-palindromic-substring) |
 | [0055-jump-game](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0121-best-time-to-buy-and-sell-stock) |
