@@ -42,6 +42,7 @@ A collection of LeetCode questions solved - Created using [LeetHub v2](https://g
 | [0217-contains-duplicate](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0347-top-k-frequent-elements) |
 | [0605-can-place-flowers](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0605-can-place-flowers) |
 | [1319-unique-number-of-occurrences](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions solved - Created using [LeetHub v2](https://g
 | [0217-contains-duplicate](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0347-top-k-frequent-elements) |
 | [0782-jewels-and-stones](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0782-jewels-and-stones) |
 | [1319-unique-number-of-occurrences](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions solved - Created using [LeetHub v2](https://g
 | [0217-contains-duplicate](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0347-top-k-frequent-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -217,12 +220,26 @@ A collection of LeetCode questions solved - Created using [LeetHub v2](https://g
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0023-merge-k-sorted-lists) |
+| [0347-top-k-frequent-elements](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0023-merge-k-sorted-lists) |
+| [0347-top-k-frequent-elements](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0347-top-k-frequent-elements) |
 ## Merge Sort
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0023-merge-k-sorted-lists) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
