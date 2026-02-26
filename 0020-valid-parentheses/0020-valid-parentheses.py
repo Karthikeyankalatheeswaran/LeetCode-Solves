@@ -1,17 +1,22 @@
 class Solution(object):
     def isValid(self, s):
-        stack = []
-        brackets = {")": "(",  "}": "{",  "]": "["}
-
-        for char in s:
-            if char in brackets:
-                top = stack.pop() if stack else '0'
-
-                if brackets[char] != top:
-                    return False
+        """
+        :type s: str
+        :rtype: bool
+        """
+        hashmap = {")": "(", "}": "{", "]": "["}
+        stk = []
+ 
+        for c in s:
+            if c not in hashmap:
+                stk.append(c)
             else:
-                stack.append(char)
-
-        return not stack
-
+                if not stk:
+                    return False
+                else:
+                    popped = stk.pop()
+                    if popped != hashmap[c]:
+                        return False
+ 
+        return not stk
         
