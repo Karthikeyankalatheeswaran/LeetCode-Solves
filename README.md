@@ -45,6 +45,7 @@ A collection of LeetCode questions solved - Created using [LeetHub v2](https://g
 | [0283-move-zeroes](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0347-top-k-frequent-elements) |
 | [0605-can-place-flowers](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0605-can-place-flowers) |
+| [0739-daily-temperatures](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0739-daily-temperatures) |
 | [1319-unique-number-of-occurrences](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions solved - Created using [LeetHub v2](https://g
 | [0155-min-stack](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0232-implement-queue-using-stacks) |
+| [0739-daily-temperatures](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0739-daily-temperatures) |
 | [2470-removing-stars-from-a-string](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/2470-removing-stars-from-a-string) |
 ## Design
 |  |
@@ -247,4 +249,8 @@ A collection of LeetCode questions solved - Created using [LeetHub v2](https://g
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0347-top-k-frequent-elements) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
