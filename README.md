@@ -45,6 +45,7 @@ A collection of LeetCode questions solved - Created using [LeetHub v2](https://g
 | [0283-move-zeroes](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0347-top-k-frequent-elements) |
 | [0605-can-place-flowers](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0605-can-place-flowers) |
+| [0704-binary-search](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0739-daily-temperatures) |
 | [1319-unique-number-of-occurrences](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions solved - Created using [LeetHub v2](https://g
 | [0035-search-insert-position](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
