@@ -35,6 +35,7 @@ A collection of LeetCode questions solved - Created using [LeetHub v2](https://g
 | [0055-jump-game](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0128-longest-consecutive-sequence) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions solved - Created using [LeetHub v2](https://g
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0704-binary-search) |
@@ -255,4 +257,8 @@ A collection of LeetCode questions solved - Created using [LeetHub v2](https://g
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0739-daily-temperatures) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
