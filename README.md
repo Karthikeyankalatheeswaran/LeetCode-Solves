@@ -37,6 +37,7 @@ A collection of LeetCode questions solved - Created using [LeetHub v2](https://g
 | [0056-merge-intervals](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0074-search-a-2d-matrix) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0128-longest-consecutive-sequence) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions solved - Created using [LeetHub v2](https://g
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0020-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0225-implement-stack-using-queues) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions solved - Created using [LeetHub v2](https://g
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0739-daily-temperatures) |
 ## Matrix
 |  |
