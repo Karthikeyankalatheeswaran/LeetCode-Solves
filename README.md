@@ -97,6 +97,7 @@ A collection of LeetCode questions solved - Created using [LeetHub v2](https://g
 | [0160-intersection-of-two-linked-lists](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0283-move-zeroes) |
+| [0295-find-median-from-data-stream](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0392-is-subsequence) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions solved - Created using [LeetHub v2](https://g
 | [0155-min-stack](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0232-implement-queue-using-stacks) |
+| [0295-find-median-from-data-stream](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0295-find-median-from-data-stream) |
 ## Queue
 |  |
 | ------- |
@@ -168,6 +170,7 @@ A collection of LeetCode questions solved - Created using [LeetHub v2](https://g
 | [0217-contains-duplicate](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0268-missing-number) |
+| [0295-find-median-from-data-stream](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0347-top-k-frequent-elements) |
 ## Dynamic Programming
 |  |
@@ -243,6 +246,7 @@ A collection of LeetCode questions solved - Created using [LeetHub v2](https://g
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0023-merge-k-sorted-lists) |
+| [0295-find-median-from-data-stream](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0347-top-k-frequent-elements) |
 ## Merge Sort
 |  |
@@ -269,4 +273,8 @@ A collection of LeetCode questions solved - Created using [LeetHub v2](https://g
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0074-search-a-2d-matrix) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
