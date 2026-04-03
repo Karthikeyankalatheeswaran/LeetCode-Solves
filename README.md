@@ -47,6 +47,7 @@ A collection of LeetCode questions solved - Created using [LeetHub v2](https://g
 | [0217-contains-duplicate](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0347-top-k-frequent-elements) |
 | [0605-can-place-flowers](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0605-can-place-flowers) |
 | [0704-binary-search](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0704-binary-search) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions solved - Created using [LeetHub v2](https://g
 | [0160-intersection-of-two-linked-lists](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0345-reverse-vowels-of-a-string) |
@@ -157,12 +159,14 @@ A collection of LeetCode questions solved - Created using [LeetHub v2](https://g
 | [0074-search-a-2d-matrix](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
 | ------- |
