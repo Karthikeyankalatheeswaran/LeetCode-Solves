@@ -5,10 +5,13 @@ class Solution(object):
         :type target: int
         :rtype: List[int]
         """
-        prevMap = {}
+        seen = {}
 
-        for i,n in enumerate(nums):
-            diff = target - n
-            if diff in prevMap:
-                return [prevMap[diff],i]
-            prevMap[n] = i
+        for i,num in enumerate(nums):
+            complement = target - num
+            if complement in seen:
+                return [seen[complement],i]
+            seen[num] = i
+
+        return []
+                
