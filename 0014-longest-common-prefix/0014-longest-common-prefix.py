@@ -11,4 +11,3 @@ class Solution(object):
                 if not str_arr_1:
                     return ""
         return str_arr_1
-        
