@@ -4,13 +4,9 @@ class Solution(object):
         :type nums: List[int]
         :rtype: None Do not return anything, modify nums in-place instead.
         """
-        index = 0
+        left = 0 
 
-        for num in nums:
-            if num !=0:
-                nums[index] = num
-                index +=1
-        
-        while index < len(nums):
-            nums[index] = 0
-            index +=1
+        for right in range(len(nums)):
+            if nums[right] != 0 :
+                nums[left], nums[right] = nums[right], nums[left]
+                left += 1
