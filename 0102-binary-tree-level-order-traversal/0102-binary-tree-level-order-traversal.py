@@ -1,3 +1,4 @@
+from collections import deque
 # Definition for a binary tree node.
 # class TreeNode(object):
 #     def __init__(self, val=0, left=None, right=None):
@@ -10,24 +11,25 @@ class Solution(object):
         :type root: Optional[TreeNode]
         :rtype: List[List[int]]
         """
-        if not root:
-            return []
-        
+        #BFS
+        q = deque()
+        q.append(root)
+
         result = []
-        queue = deque([root])
-        
-        while queue:
-            level_size = len(queue)
-            current_level = []
-            
-            for _ in range(level_size):
-                node = queue.popleft()
-                current_level.append(node.val)
-                if node.left:
-                    queue.append(node.left)
-                if node.right:
-                    queue.append(node.right)
-            
-            result.append(current_level)
+
+        while q:
+            q_len = len(q)
+            level = []
+
+            for i in range(q_len):
+                node = q.popleft()
+
+                if node:
+                    level.append(node.val)
+                    q.append(node.left)
+                    q.append(node.right)
+                
+            if level:
+                result.append(level)
             
         return result
