@@ -70,6 +70,7 @@ A collection of LeetCode questions solved - Created using [LeetHub v2](https://g
 | [0049-group-anagrams](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0128-longest-consecutive-sequence) |
+| [0133-clone-graph](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0160-intersection-of-two-linked-lists) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions solved - Created using [LeetHub v2](https://g
 | ------- |
 | [0100-same-tree](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0133-clone-graph](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0226-invert-binary-tree) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions solved - Created using [LeetHub v2](https://g
 | [0100-same-tree](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0133-clone-graph](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0226-invert-binary-tree) |
@@ -332,4 +335,8 @@ A collection of LeetCode questions solved - Created using [LeetHub v2](https://g
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0200-number-of-islands) |
+## Graph Theory
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0133-clone-graph) |
 <!---LeetCode Topics End-->
