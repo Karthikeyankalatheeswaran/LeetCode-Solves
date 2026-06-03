@@ -46,6 +46,7 @@ A collection of LeetCode questions solved - Created using [LeetHub v2](https://g
 | [0128-longest-consecutive-sequence](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0200-number-of-islands](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0238-product-of-array-except-self) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions solved - Created using [LeetHub v2](https://g
 | [0100-same-tree](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0572-subtree-of-another-tree) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions solved - Created using [LeetHub v2](https://g
 | [0102-binary-tree-level-order-traversal](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
@@ -303,6 +306,7 @@ A collection of LeetCode questions solved - Created using [LeetHub v2](https://g
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0200-number-of-islands) |
 ## Data Stream
 |  |
 | ------- |
@@ -324,4 +328,8 @@ A collection of LeetCode questions solved - Created using [LeetHub v2](https://g
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
