@@ -45,6 +45,7 @@ A collection of LeetCode questions solved - Created using [LeetHub v2](https://g
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0209-minimum-size-subarray-sum) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions solved - Created using [LeetHub v2](https://g
 | [0013-roman-to-integer](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0268-missing-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Two Pointers
@@ -122,6 +124,7 @@ A collection of LeetCode questions solved - Created using [LeetHub v2](https://g
 | [0020-valid-parentheses](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0143-reorder-list) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0232-implement-queue-using-stacks) |
