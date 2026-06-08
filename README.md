@@ -59,6 +59,7 @@ A collection of LeetCode questions solved - Created using [LeetHub v2](https://g
 | [0605-can-place-flowers](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0605-can-place-flowers) |
 | [0704-binary-search](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0739-daily-temperatures) |
+| [0875-koko-eating-bananas](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0875-koko-eating-bananas) |
 | [1319-unique-number-of-occurrences](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions solved - Created using [LeetHub v2](https://g
 | [0268-missing-number](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0875-koko-eating-bananas) |
 ## Bit Manipulation
 |  |
 | ------- |
