@@ -5,15 +5,10 @@ class Solution(object):
         :type n: int
         :rtype: bool
         """
-        count = 0 
-        length = len(flowerbed)
+        f = [0] + flowerbed + [0]
 
-        for i in range(length):
-            if flowerbed[i] == 0:
-                left = i == 0 or flowerbed[i-1] == 0
-                right = i == length - 1 or flowerbed[i + 1] == 0
-
-                if left and right: 
-                    flowerbed[i] = 1
-                    count += 1
-        return count >= n
+        for i in range(1 , len(f) - 1):
+            if f[i-1] == 0 and f[i] == 0 and f[i+1] == 0:
+                f[i] = 1
+                n-=1
+        return n<=0
