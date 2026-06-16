@@ -63,6 +63,7 @@ A collection of LeetCode questions solved - Created using [LeetHub v2](https://g
 | [0875-koko-eating-bananas](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0875-koko-eating-bananas) |
 | [1319-unique-number-of-occurrences](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [2350-find-closest-number-to-zero](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/2350-find-closest-number-to-zero) |
 ## Hash Table
