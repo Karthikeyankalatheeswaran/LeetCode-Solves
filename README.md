@@ -56,6 +56,7 @@ A collection of LeetCode questions solved - Created using [LeetHub v2](https://g
 | [0268-missing-number](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0287-find-the-duplicate-number) |
+| [0334-increasing-triplet-subsequence](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0347-top-k-frequent-elements) |
 | [0605-can-place-flowers](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0605-can-place-flowers) |
 | [0704-binary-search](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0704-binary-search) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions solved - Created using [LeetHub v2](https://g
 | ------- |
 | [0011-container-with-most-water](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0055-jump-game) |
+| [0334-increasing-triplet-subsequence](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0680-valid-palindrome-ii) |
 ## Database
