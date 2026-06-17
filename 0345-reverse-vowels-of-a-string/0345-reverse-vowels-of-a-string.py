@@ -4,22 +4,25 @@ class Solution(object):
         :type s: str
         :rtype: str
         """
-        s_list = list(s)
-        VOWELS = {'a', 'e', 'i', 'o', 'u', 'A', 'E', 'I', 'O', 'U'}
+        vowels = ['a','A','e','E','i','I','o','O','u','U']
+        li = list(s)
+        l = 0
+        r = len(s) - 1
 
-        left = 0
-        right = len(s_list) - 1
+        while l < r:
+            
+            while l<r and li[l] not in vowels:
+                l+=1
+             
+            while l<r and li[r] not in vowels:
+                r-=1
 
-        while left < right:
+            if l<r :
+                li[l] , li[r] = li[r] , li[l]
+            
+            l+=1
+            r-=1
 
-            while left < right and s_list[left] not in VOWELS:
-                left += 1
-                
-            while left < right and s_list[right] not in VOWELS:
-                right -= 1
-            if left < right:
-                s_list[left], s_list[right] = s_list[right], s_list[left]
-                
-                left += 1
-                right -= 1
-        return "".join(s_list)
+        return "".join(li)
+
+            
