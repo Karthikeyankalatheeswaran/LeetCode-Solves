@@ -5,19 +5,14 @@ class Solution(object):
         :type t: str
         :rtype: bool
         """
-        i = 0 
-        j = 0
+        sp = tp = 0
 
-        s_len = len(s)
-        t_len = len(t)
+        while sp < len(s) and tp < len(t):
+            if s[sp] == t[tp]:
+                sp += 1
+            tp += 1
+        
+        return sp == len(s)
 
-        if s_len == 0:
-            return True
 
-        while i < s_len and j < t_len:
-            if s[i] == t[j]:
-                i +=1
-            j+=1
-
-        return i == s_len
         
