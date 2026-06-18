@@ -66,6 +66,7 @@ A collection of LeetCode questions solved - Created using [LeetHub v2](https://g
 | [1392-find-the-difference-of-two-arrays](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2350-find-closest-number-to-zero](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/2350-find-closest-number-to-zero) |
 ## Hash Table
 |  |
@@ -88,6 +89,7 @@ A collection of LeetCode questions solved - Created using [LeetHub v2](https://g
 | [0782-jewels-and-stones](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0782-jewels-and-stones) |
 | [1319-unique-number-of-occurrences](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Math
 |  |
 | ------- |
@@ -123,6 +125,7 @@ A collection of LeetCode questions solved - Created using [LeetHub v2](https://g
 | [0392-is-subsequence](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0443-string-compression) |
 | [0680-valid-palindrome-ii](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0680-valid-palindrome-ii) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/1768-merge-strings-alternately) |
 | [1894-merge-strings-alternately](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/1894-merge-strings-alternately) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -207,6 +210,7 @@ A collection of LeetCode questions solved - Created using [LeetHub v2](https://g
 | [0268-missing-number](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0347-top-k-frequent-elements) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
