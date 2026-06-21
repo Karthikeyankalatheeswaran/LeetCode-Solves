@@ -177,6 +177,7 @@ A collection of LeetCode questions solved - Created using [LeetHub v2](https://g
 | [0680-valid-palindrome-ii](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0680-valid-palindrome-ii) |
 | [0782-jewels-and-stones](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0782-jewels-and-stones) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1768-merge-strings-alternately](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/1768-merge-strings-alternately) |
 | [1894-merge-strings-alternately](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/1894-merge-strings-alternately) |
 | [2470-removing-stars-from-a-string](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/2470-removing-stars-from-a-string) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions solved - Created using [LeetHub v2](https://g
 | [0076-minimum-window-substring](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0643-maximum-average-subarray-i) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Tree
 |  |
 | ------- |
