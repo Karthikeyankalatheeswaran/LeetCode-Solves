@@ -63,6 +63,7 @@ A collection of LeetCode questions solved - Created using [LeetHub v2](https://g
 | [0704-binary-search](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0875-koko-eating-bananas) |
+| [1004-max-consecutive-ones-iii](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/1004-max-consecutive-ones-iii) |
 | [1319-unique-number-of-occurrences](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions solved - Created using [LeetHub v2](https://g
 | [0287-find-the-duplicate-number](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0875-koko-eating-bananas) |
+| [1004-max-consecutive-ones-iii](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/1004-max-consecutive-ones-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -256,6 +258,7 @@ A collection of LeetCode questions solved - Created using [LeetHub v2](https://g
 | [0076-minimum-window-substring](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0643-maximum-average-subarray-i) |
+| [1004-max-consecutive-ones-iii](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Tree
 |  |
@@ -352,6 +355,7 @@ A collection of LeetCode questions solved - Created using [LeetHub v2](https://g
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0238-product-of-array-except-self) |
+| [1004-max-consecutive-ones-iii](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/1004-max-consecutive-ones-iii) |
 ## Binary Search Tree
 |  |
 | ------- |
