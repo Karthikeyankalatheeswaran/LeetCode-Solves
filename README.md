@@ -69,6 +69,7 @@ A collection of LeetCode questions solved - Created using [LeetHub v2](https://g
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1732-find-the-highest-altitude](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/1732-find-the-highest-altitude) |
 | [2350-find-closest-number-to-zero](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/2350-find-closest-number-to-zero) |
 ## Hash Table
 |  |
@@ -356,6 +357,7 @@ A collection of LeetCode questions solved - Created using [LeetHub v2](https://g
 | [0209-minimum-size-subarray-sum](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0238-product-of-array-except-self) |
 | [1004-max-consecutive-ones-iii](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/1004-max-consecutive-ones-iii) |
+| [1732-find-the-highest-altitude](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/1732-find-the-highest-altitude) |
 ## Binary Search Tree
 |  |
 | ------- |
