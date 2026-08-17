@@ -143,6 +143,7 @@ A collection of LeetCode questions solved - Created using [LeetHub v2](https://g
 | [0225-implement-stack-using-queues](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0232-implement-queue-using-stacks) |
 | [0739-daily-temperatures](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0739-daily-temperatures) |
+| [2390-removing-stars-from-a-string](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/2390-removing-stars-from-a-string) |
 | [2470-removing-stars-from-a-string](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/2470-removing-stars-from-a-string) |
 ## Design
 |  |
@@ -182,6 +183,7 @@ A collection of LeetCode questions solved - Created using [LeetHub v2](https://g
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1768-merge-strings-alternately](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/1768-merge-strings-alternately) |
 | [1894-merge-strings-alternately](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/1894-merge-strings-alternately) |
+| [2390-removing-stars-from-a-string](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/2390-removing-stars-from-a-string) |
 | [2470-removing-stars-from-a-string](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/2470-removing-stars-from-a-string) |
 ## Binary Search
 |  |
@@ -251,6 +253,7 @@ A collection of LeetCode questions solved - Created using [LeetHub v2](https://g
 ## Simulation
 |  |
 | ------- |
+| [2390-removing-stars-from-a-string](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/2390-removing-stars-from-a-string) |
 | [2470-removing-stars-from-a-string](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/2470-removing-stars-from-a-string) |
 ## Sliding Window
 |  |
