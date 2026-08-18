@@ -61,6 +61,7 @@ A collection of LeetCode questions solved - Created using [LeetHub v2](https://g
 | [0605-can-place-flowers](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0704-binary-search) |
+| [0735-asteroid-collision](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/1004-max-consecutive-ones-iii) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions solved - Created using [LeetHub v2](https://g
 | [0155-min-stack](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0232-implement-queue-using-stacks) |
+| [0735-asteroid-collision](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0739-daily-temperatures) |
 | [2390-removing-stars-from-a-string](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/2390-removing-stars-from-a-string) |
 | [2470-removing-stars-from-a-string](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/2470-removing-stars-from-a-string) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions solved - Created using [LeetHub v2](https://g
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/0735-asteroid-collision) |
 | [2390-removing-stars-from-a-string](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/2390-removing-stars-from-a-string) |
 | [2470-removing-stars-from-a-string](https://github.com/Karthikeyankalatheeswaran/LeetCode-Solves/tree/master/2470-removing-stars-from-a-string) |
 ## Sliding Window
